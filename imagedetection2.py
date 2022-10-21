@@ -1,8 +1,11 @@
 from datetime import timedelta
+from typing import ChainMap
 import cv2
 from deepface import DeepFace
+from matplotlib.font_manager import json_dump
+#from matplotlib.font_manager import json_dump
 import numpy as np
-import time
+import json
 
 face_cascade_name = cv2.data.haarcascades + 'haarcascade_frontalface_alt.xml'  #getting a haarcascade xml file
 face_cascade = cv2.CascadeClassifier()  #processing it for our project
@@ -14,10 +17,12 @@ if not face_cascade.load(cv2.samples.findFile(face_cascade_name)):  #adding a fa
 #video=cv2.VideoCapture('fear.mp4')
 #file_name = 'Breeze_Woodson.mp4'
 #file_name = 'fear.mp4'
-file_name = 'database/w009_fear_011.mp4'
+file_name = 'database/m003_fear_001.mp4'
 video=cv2.VideoCapture(file_name)
 result_line = {}
-i = 0
+dicionario_emocoes = {}
+dicionario = {}
+i = 1
 
 
 while video.isOpened():  #checking if are getting video feed and using it
@@ -34,27 +39,31 @@ while video.isOpened():  #checking if are getting video feed and using it
           analyze = DeepFace.analyze(frame,actions=['emotion'])  #same thing is happing here as the previous example, we are using the analyze class from deepface and using ‘frame’ as input
           print(analyze['dominant_emotion'])  #here we will only go print out the dominant emotion also explained in the previous example
           #print(analyze('region'))
-          i = i+1
+
 
           frame_number = i
+          i = i+1
           dominant_emotion = analyze['dominant_emotion']
-          #micro_seconds = timedelta(seconds=time.time())
-
-          result_line[frame_number] = dominant_emotion
-          
+          result_line[frame_number] = dominant_emotion          
+#          dicionario_emocoes = {"frame_number" : frame_number, "dominant_emotion" : dominant_emotion}
       except:
           print("no face")
 
-#print("Total frames: ", i)
-    #print(result_line)
-    
+
+ #         dicionario_emocoes['frame_number'] = dominant_emotion
 
       #this is the part where we display the output to the user
       #cv2.imshow('video', frame)
       #key=cv2.waitKey(1) 
       #if key==ord('q'):   # here we are specifying the key which will stop the loop and stop all the processes going
       #  break
-    
+  #  dicionario.get(dicionario_emocoes)
+
+    with open(file_name + "_face_detection.json", 'w') as outfile:
+        json.dump(result_line, outfile)
+
+
+    print(dicionario)
     saving_file = open(file_name+'.txt', 'wt')
     saving_file.write(str(result_line))
     saving_file.close()
