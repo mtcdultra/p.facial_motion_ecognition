@@ -12,12 +12,13 @@ face_cascade = cv2.CascadeClassifier()  #processing it for our project
 if not face_cascade.load(cv2.samples.findFile(face_cascade_name)):  #adding a fallback event
     print("Error loading xml file")
 
+# Para usar webcam
 #video=cv2.VideoCapture(0)  #requisting the input from the webcam or camera
 
-#video=cv2.VideoCapture('fear.mp4')
-#file_name = 'Breeze_Woodson.mp4'
-#file_name = 'fear.mp4'
-file_name = 'database/m003_fear_001.mp4'
+
+file_name = 'database/m003_sad_024.mp4'
+
+# Para videos gravados
 video=cv2.VideoCapture(file_name)
 result_line = {}
 dicionario_emocoes = {}
@@ -38,12 +39,14 @@ while video.isOpened():  #checking if are getting video feed and using it
       try:
           analyze = DeepFace.analyze(frame,actions=['emotion'])  #same thing is happing here as the previous example, we are using the analyze class from deepface and using ‘frame’ as input
           print(analyze['dominant_emotion'])  #here we will only go print out the dominant emotion also explained in the previous example
+          #print(analyze['emotion'])  
           #print(analyze('region'))
 
 
           frame_number = i
           i = i+1
           dominant_emotion = analyze['dominant_emotion']
+          #dominant_emotion = analyze['emotion']
           result_line[frame_number] = dominant_emotion          
 #          dicionario_emocoes = {"frame_number" : frame_number, "dominant_emotion" : dominant_emotion}
       except:
@@ -62,8 +65,6 @@ while video.isOpened():  #checking if are getting video feed and using it
     with open(file_name + "_face_detection.json", 'w') as outfile:
         json.dump(result_line, outfile)
 
-
-    print(dicionario)
     saving_file = open(file_name+'.txt', 'wt')
     saving_file.write(str(result_line))
     saving_file.close()

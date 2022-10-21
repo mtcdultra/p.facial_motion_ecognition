@@ -1,0 +1,1447 @@
+[
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.12,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.87,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.050937",
+    "MOST_RELEVANT": ["Fear", 0.87]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.1,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.9,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.084270",
+    "MOST_RELEVANT": ["Fear", 0.9]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.1,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.9,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.117603",
+    "MOST_RELEVANT": ["Fear", 0.9]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.02,
+        "Happy": 0.07,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.92,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.150935",
+    "MOST_RELEVANT": ["Fear", 0.92]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.04,
+        "Happy": 0.03,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.94,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.184268",
+    "MOST_RELEVANT": ["Fear", 0.94]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.12,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.88,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.217601",
+    "MOST_RELEVANT": ["Fear", 0.88]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.7,
+        "Happy": 0.01,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.29,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.250934",
+    "MOST_RELEVANT": ["Surprise", 0.7]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.7,
+        "Happy": 0.04,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.26,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.284267",
+    "MOST_RELEVANT": ["Surprise", 0.7]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.21,
+        "Happy": 0.75,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.04,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.317600",
+    "MOST_RELEVANT": ["Happy", 0.75]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.04,
+        "Happy": 0.94,
+        "Neutral": 0.01,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.350932",
+    "MOST_RELEVANT": ["Happy", 0.94]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.47,
+        "Happy": 0.28,
+        "Neutral": 0.1,
+        "Contempt": 0.0,
+        "Sad": 0.02,
+        "Disgust": 0.0,
+        "Fear": 0.01,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.384265",
+    "MOST_RELEVANT": ["Surprise", 0.47]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.75,
+        "Happy": 0.07,
+        "Neutral": 0.03,
+        "Contempt": 0.0,
+        "Sad": 0.02,
+        "Disgust": 0.0,
+        "Fear": 0.09,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.417598",
+    "MOST_RELEVANT": ["Surprise", 0.75]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.8,
+        "Happy": 0.06,
+        "Neutral": 0.02,
+        "Contempt": 0.0,
+        "Sad": 0.01,
+        "Disgust": 0.0,
+        "Fear": 0.09,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.450931",
+    "MOST_RELEVANT": ["Surprise", 0.8]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.72,
+        "Happy": 0.15,
+        "Neutral": 0.03,
+        "Contempt": 0.0,
+        "Sad": 0.03,
+        "Disgust": 0.0,
+        "Fear": 0.07,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.484264",
+    "MOST_RELEVANT": ["Surprise", 0.72]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.1,
+        "Happy": 0.27,
+        "Neutral": 0.12,
+        "Contempt": 0.0,
+        "Sad": 0.02,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.517597",
+    "MOST_RELEVANT": ["Happy", 0.27]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.05,
+        "Happy": 0.38,
+        "Neutral": 0.11,
+        "Contempt": 0.0,
+        "Sad": 0.01,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.550929",
+    "MOST_RELEVANT": ["Happy", 0.38]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.21,
+        "Happy": 0.74,
+        "Neutral": 0.03,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.584262",
+    "MOST_RELEVANT": ["Happy", 0.74]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.82,
+        "Happy": 0.06,
+        "Neutral": 0.11,
+        "Contempt": 0.0,
+        "Sad": 0.01,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.617595",
+    "MOST_RELEVANT": ["Surprise", 0.82]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 1.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.650928",
+    "MOST_RELEVANT": ["Surprise", 1.0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.99,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.684261",
+    "MOST_RELEVANT": ["Surprise", 0.99]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.93,
+        "Happy": 0.06,
+        "Neutral": 0.01,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.717593",
+    "MOST_RELEVANT": ["Surprise", 0.93]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.63,
+        "Happy": 0.35,
+        "Neutral": 0.01,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.750926",
+    "MOST_RELEVANT": ["Surprise", 0.63]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.42,
+        "Happy": 0.56,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.784259",
+    "MOST_RELEVANT": ["Happy", 0.56]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.1,
+        "Happy": 0.78,
+        "Neutral": 0.02,
+        "Contempt": 0.0,
+        "Sad": 0.01,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.817592",
+    "MOST_RELEVANT": ["Happy", 0.78]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.1,
+        "Happy": 0.71,
+        "Neutral": 0.09,
+        "Contempt": 0.0,
+        "Sad": 0.01,
+        "Disgust": 0.0,
+        "Fear": 0.01,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.850925",
+    "MOST_RELEVANT": ["Happy", 0.71]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.18,
+        "Happy": 0.01,
+        "Neutral": 0.13,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.68,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.884258",
+    "MOST_RELEVANT": ["Fear", 0.68]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.07,
+        "Happy": 0.0,
+        "Neutral": 0.27,
+        "Contempt": 0.0,
+        "Sad": 0.04,
+        "Disgust": 0.0,
+        "Fear": 0.62,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.917590",
+    "MOST_RELEVANT": ["Fear", 0.62]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.12,
+        "Happy": 0.0,
+        "Neutral": 0.56,
+        "Contempt": 0.0,
+        "Sad": 0.01,
+        "Disgust": 0.0,
+        "Fear": 0.32,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.950923",
+    "MOST_RELEVANT": ["Neutral", 0.56]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.64,
+        "Happy": 0.0,
+        "Neutral": 0.16,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.19,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:29.984256",
+    "MOST_RELEVANT": ["Surprise", 0.64]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.01,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.99,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.017589",
+    "MOST_RELEVANT": ["Fear", 0.99]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.07,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.93,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.050922",
+    "MOST_RELEVANT": ["Fear", 0.93]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.13,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.87,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.084255",
+    "MOST_RELEVANT": ["Fear", 0.87]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.92,
+        "Neutral": 0.01,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.06,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.117587",
+    "MOST_RELEVANT": ["Happy", 0.92]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.07,
+        "Happy": 0.41,
+        "Neutral": 0.45,
+        "Contempt": 0.0,
+        "Sad": 0.01,
+        "Disgust": 0.0,
+        "Fear": 0.01,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.150920",
+    "MOST_RELEVANT": ["Neutral", 0.45]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.04,
+        "Happy": 0.0,
+        "Neutral": 0.74,
+        "Contempt": 0.0,
+        "Sad": 0.02,
+        "Disgust": 0.0,
+        "Fear": 0.19,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.184253",
+    "MOST_RELEVANT": ["Neutral", 0.74]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.01,
+        "Happy": 0.0,
+        "Neutral": 0.71,
+        "Contempt": 0.0,
+        "Sad": 0.06,
+        "Disgust": 0.0,
+        "Fear": 0.21,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.217586",
+    "MOST_RELEVANT": ["Neutral", 0.71]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.05,
+        "Happy": 0.0,
+        "Neutral": 0.63,
+        "Contempt": 0.0,
+        "Sad": 0.02,
+        "Disgust": 0.0,
+        "Fear": 0.28,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.250919",
+    "MOST_RELEVANT": ["Neutral", 0.63]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.01,
+        "Happy": 0.01,
+        "Neutral": 0.18,
+        "Contempt": 0.0,
+        "Sad": 0.11,
+        "Disgust": 0.0,
+        "Fear": 0.68,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.284252",
+    "MOST_RELEVANT": ["Fear", 0.68]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.01,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.98,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.317584",
+    "MOST_RELEVANT": ["Fear", 0.98]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.11,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.01,
+        "Disgust": 0.0,
+        "Fear": 0.86,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.350917",
+    "MOST_RELEVANT": ["Fear", 0.86]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.24,
+        "Neutral": 0.03,
+        "Contempt": 0.0,
+        "Sad": 0.29,
+        "Disgust": 0.06,
+        "Fear": 0.23,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.384250",
+    "MOST_RELEVANT": ["Sad", 0.29]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.15,
+        "Neutral": 0.03,
+        "Contempt": 0.0,
+        "Sad": 0.44,
+        "Disgust": 0.02,
+        "Fear": 0.13,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.417583",
+    "MOST_RELEVANT": ["Sad", 0.44]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.02,
+        "Contempt": 0.0,
+        "Sad": 0.78,
+        "Disgust": 0.0,
+        "Fear": 0.19,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.450916",
+    "MOST_RELEVANT": ["Sad", 0.78]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 1.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.484248",
+    "MOST_RELEVANT": ["Sad", 1.0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 1.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.517581",
+    "MOST_RELEVANT": ["Sad", 1.0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.45,
+        "Disgust": 0.0,
+        "Fear": 0.55,
+        "Angry": 0.0
+      },
+      "STATUS": "SUCCESS"
+    },
+    "TIME": "2022-10-21 13:18:30.550914",
+    "MOST_RELEVANT": ["Fear", 0.55]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.584247",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.617580",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.650913",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.684245",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.717578",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.750911",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.784244",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.817577",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.850910",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.884242",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.917575",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.950908",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:30.984241",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.017574",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.050906",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.084239",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.117572",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.150905",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.184238",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.217571",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.250903",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.284236",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.317569",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.350902",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.384235",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.417568",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.450900",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.484233",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.517566",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.550899",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.584232",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.617564",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.650897",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.684230",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.717563",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.750896",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.784229",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.817561",
+    "MOST_RELEVANT": ["", 0]
+  },
+  {
+    "skyBiometry": {
+      "RESULT": {
+        "Surprise": 0.0,
+        "Happy": 0.0,
+        "Neutral": 0.0,
+        "Contempt": 0.0,
+        "Sad": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Angry": 0.0
+      },
+      "STATUS": "ERROR: API_KEY_USAGE_PASSED_QUOTA - account passed hourly faces/detect, faces/recognize and faces/group operation usage quota"
+    },
+    "TIME": "2022-10-21 13:18:31.850894",
+    "MOST_RELEVANT": ["", 0]
+  }
+]
