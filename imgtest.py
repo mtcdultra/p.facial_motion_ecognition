@@ -29,28 +29,21 @@ i = 1
 while video.isOpened():  #checking if are getting video feed and using it
     _,frame = video.read()
 
-    gray=cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)  #changing the video to grayscale to make the face analisis work properly
-    face=face_cascade.detectMultiScale(gray,scaleFactor=1.1,minNeighbors=5)
+    #gray=cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)  #changing the video to grayscale to make the face analisis work properly
+    #face=face_cascade.detectMultiScale(gray,scaleFactor=1.1,minNeighbors=5)
 
-    for x,y,w,h in face:
-      img=cv2.rectangle(frame,(x,y),(x+w,y+h),(0,0,255),1)  #making a recentangle to show up and detect the face and setting it position and colour
-      
-      #making a try and except condition in case of any errors
-      try:
-          analyze = DeepFace.analyze(frame,actions=['emotion'])  #same thing is happing here as the previous example, we are using the analyze class from deepface and using ‘frame’ as input
-          print(analyze['dominant_emotion'])  #here we will only go print out the dominant emotion also explained in the previous example
-          #print(analyze['emotion'])  
-          #print(analyze('region'))
+    analyze = DeepFace.analyze(frame,actions=['emotion'], enforce_detection=False)  #same thing is happing here as the previous example, we are using the analyze class from deepface and using ‘frame’ as input
+    print(analyze['dominant_emotion'])  #here we will only go print out the dominant emotion also explained in the previous example
+    #print(analyze['emotion'])  
+    #print(analyze('region'))
 
 
-          frame_number = i
-          i = i+1
-          dominant_emotion = analyze['dominant_emotion']
-          #dominant_emotion = analyze['emotion']
-          result_line[frame_number] = dominant_emotion          
+    frame_number = i
+    i = i+1
+    dominant_emotion = analyze['dominant_emotion']
+    #dominant_emotion = analyze['emotion']
+    result_line[frame_number] = dominant_emotion          
 #          dicionario_emocoes = {"frame_number" : frame_number, "dominant_emotion" : dominant_emotion}
-      except:
-          print("no face")
 
 
  #         dicionario_emocoes['frame_number'] = dominant_emotion
